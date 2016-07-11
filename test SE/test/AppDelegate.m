@@ -19,6 +19,7 @@
     // Insert code here to initialize your application
     //master
     //B1
+    //B2
 }
 
 - (void)applicationWillTerminate:(NSNotification *)aNotification {
